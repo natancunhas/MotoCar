@@ -5,4 +5,5 @@ class Moto {
     }
 }
 const moto = new Moto("Honda 160cc", 2020);
-console.log(moto);
+console.log(moto.modelo);
+console.log(moto.ano);
