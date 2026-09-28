@@ -8,6 +8,7 @@
                 this.ipva = ipva;
                 this.chassi = chassi; 
                 this.cor = cor; 
+                
 
             }
         }
