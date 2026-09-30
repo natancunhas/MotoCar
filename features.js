@@ -13,7 +13,7 @@ const moto = new Moto({
     ipva: "2026 Pago",
     chassi: "Valido",
     cor: "Black piano",
-    Quilometragem: "76.900km"
+    Quilometragem: "76.900km",
 });
 
 console.log(moto);
