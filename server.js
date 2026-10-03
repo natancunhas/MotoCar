@@ -13,6 +13,8 @@ const moto = new Moto ({
     ipva: "2026 Pago",
     chassi: "Válido",
     cor: "Black piano",
+    ipva: "Pago 2026",
+    sinistro: "N/A"
 });
 
 console.log(moto);
